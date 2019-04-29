@@ -1,4 +1,5 @@
 token.js
 node_modules/
-dist/
+dist/*
 .idea/
+!dist/denjinladder.user.js

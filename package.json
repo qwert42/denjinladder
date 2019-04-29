@@ -1,6 +1,8 @@
 {
   "name": "denjinladder",
-  "version": "1.0.0",
+  "author": "FNMDX111",
+  "description": "Display iidx12.tk-style lamps for SNJ@KMZS, the unofficial DP difficulty table.",
+  "version": "1.0.1",
   "dependencies": {
     "rgb2hex": "^0.1.9"
   },
