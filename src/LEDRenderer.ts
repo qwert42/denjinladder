@@ -17,7 +17,7 @@ export default class LEDRenderer {
     private static LAMP_TO_COLOR = {
         'NO_PLAY': '#ffffff',
         'FAILED': '#c0c0c0',
-        'ASSISTED_CLEAR': '#9595ff',
+        'ASSIST_CLEAR': '#9595ff',
         'EASY_CLEAR': '#98fb98',
         'CLEAR': '#afeeee',
         'HARD_CLEAR': '#ff6347',

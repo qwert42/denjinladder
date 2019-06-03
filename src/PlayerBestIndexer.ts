@@ -19,7 +19,7 @@ export interface ChartItem {
     readonly bpm_max: number
 }
 
-export type LampType = "NO_PLAY" | "ASSISTED_CLEAR" | "EASY_CLEAR" | "CLEAR" | "HARD_CLEAR" | "EX_HARD_CLEAR"
+export type LampType = "NO_PLAY" | "ASSIST_CLEAR" | "EASY_CLEAR" | "CLEAR" | "HARD_CLEAR" | "EX_HARD_CLEAR"
     | "FULL_COMBO" | "FAILED";
 
 export interface PlayerBestItem {
